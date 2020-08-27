@@ -1,0 +1,14 @@
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
+  grid-gap: 5px;
+
+  &-item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 5px;
+    font-size: 12px;
+  }
+}

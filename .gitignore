@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Prettierrc file
+.prettierrc
+
+# Vscode file
+.vscode
